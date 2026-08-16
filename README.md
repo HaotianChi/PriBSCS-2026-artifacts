@@ -46,6 +46,9 @@ If this codebase is useful in your research, citing the following paper is appre
   author={Chi, Haotian and Zuo, Fei and Sun, Zhuocheng and Geng, Haijun and Wang, Yuwei and Jiang, Shunrong},
   journal={Journal of King Saud University Computer and Information Sciences},
   year={2026},
+  volume={38},
+  number={6},
+  pages={338--338},
   doi={10.1007/s44443-026-00761-z}
 }
 ```
@@ -98,6 +101,9 @@ python plot.py
   author={Chi, Haotian and Zuo, Fei and Sun, Zhuocheng and Geng, Haijun and Wang, Yuwei and Jiang, Shunrong},
   journal={Journal of King Saud University Computer and Information Sciences},
   year={2026},
+  volume={38},
+  number={6},
+  pages={338--338},
   doi={10.1007/s44443-026-00761-z}
 }
 ```
